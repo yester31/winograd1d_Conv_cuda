@@ -1,0 +1,1 @@
+# winograd1d_Conv_study
